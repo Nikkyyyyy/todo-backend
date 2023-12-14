@@ -18,4 +18,10 @@ export const connectDb=async()=>{
     }
 }
 
+
+
+//git init
 //git status=>kk xa herxa add na vako
+//git add .
+//git status
+//git commit -m "any message k kam gareko"
